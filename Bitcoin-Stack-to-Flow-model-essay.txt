@@ -1,0 +1,6 @@
+The Stock to Flow model measures the relationship between the currently available stock of a resource and its production rate.
+It’s typically applied to precious metals and other commodities, but some argue it may be applicable to Bitcoin as well. 
+
+In this sense, Bitcoin may be viewed as a scarce digital resource. According to this method of analysis, the unique propositions of Bitcoin should make it an asset that retains its value over the long-term. 
+
+However, every model is as strong as its assumptions, and it may not be able to account for all aspects of Bitcoin valuation. What’s more, at the time of writing, Bitcoin has only been around for a little more than ten years. Some might argue that long-term valuation models like the Stock to Flow need a larger data set for more reliable accuracy.
